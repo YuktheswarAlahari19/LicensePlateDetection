@@ -1,0 +1,6 @@
+
+train: D:/Assignment/combined_detection
+val: D:/Assignment/combined_recognition
+nc: 1
+names: ['license_plate']
+    
